@@ -164,16 +164,14 @@ CLIENT_URL=https://your-frontend-domain.com
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: https://github.com/policigit
+- LinkedIn: https://www.linkedin.com/in/avinashsahulinkdin/
+- Email: avinashofficial0725@gmail.com
 
 ## 🙏 Acknowledgments
 
